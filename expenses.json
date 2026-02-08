@@ -1,0 +1,26 @@
+[
+    {
+        "amount": 50000.0,
+        "category": "rent",
+        "description": "house and shop",
+        "date": "2026-02-02"
+    },
+    {
+        "amount": 2000.0,
+        "category": "food",
+        "description": "weekly food",
+        "date": "2026-02-02"
+    },
+    {
+        "amount": 5000.0,
+        "category": "transport",
+        "description": "travel ",
+        "date": "2026-02-02"
+    },
+    {
+        "amount": 2000.0,
+        "category": "food",
+        "description": "weekly food",
+        "date": "2026-02-04"
+    }
+]
